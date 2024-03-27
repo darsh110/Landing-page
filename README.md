@@ -1,2 +1,2 @@
 # Landing-page
-created landing page in Tailwind css
+created landing page using Tailwind css
